@@ -36,7 +36,6 @@ __pycache__
 .cursor
 
 # secrets
-.env*
 *.env
 
 # filetypes
@@ -56,4 +55,5 @@ config.toml
 .DS_Store
 
 # VSCode
-.vscode
+config.bat
+node_modules
